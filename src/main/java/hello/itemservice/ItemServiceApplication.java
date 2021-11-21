@@ -10,6 +10,7 @@ public class ItemServiceApplication {
 		SpringApplication.run(ItemServiceApplication.class, args);
 		System.out.println("테스트테스트");
 		System.out.println("testcommit add");
+		System.out.println("asdasdasd");
 	}
 
 }
