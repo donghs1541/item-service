@@ -9,6 +9,7 @@ public class ItemServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ItemServiceApplication.class, args);
 		System.out.println("테스트테스트");
+		System.out.println("testcommit add");
 	}
 
 }
