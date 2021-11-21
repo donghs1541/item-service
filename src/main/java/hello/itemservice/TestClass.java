@@ -1,4 +1,6 @@
 package hello.itemservice;
 
 public class TestClass {
+    int a = 1;
+    int b = 2;
 }
