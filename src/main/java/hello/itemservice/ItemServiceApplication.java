@@ -12,7 +12,6 @@ public class ItemServiceApplication {
 		System.out.println("추가");
 		System.out.println("추가");
 		System.out.println("추가");
-		System.out.println("추가");
 	}
 
 }
